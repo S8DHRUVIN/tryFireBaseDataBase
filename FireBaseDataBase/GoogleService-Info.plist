@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>494302216853-ak75k0tvlcjm4ugl78f14e4kkqs37sga.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.494302216853-ak75k0tvlcjm4ugl78f14e4kkqs37sga</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCU3KtDd2YFmrZ3touuZz3f3VivUE75VNA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>494302216853</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dhruvin.FireBaseDataBase</string>
+	<key>PROJECT_ID</key>
+	<string>try1stapp-4bbed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>try1stapp-4bbed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:494302216853:ios:655bf6950b472c1f3c919c</string>
+	<key>DATABASE_URL</key>
+	<string>https://try1stapp-4bbed.firebaseio.com</string>
+</dict>
+</plist>
